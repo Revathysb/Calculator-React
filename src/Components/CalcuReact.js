@@ -23,7 +23,7 @@ const CalcuReact = () => {
     }
   };
   const resett = () => {
-    //document.getElementById("screen").value="";
+  
     setVal(" ");
   };
   const equalck = () => {
